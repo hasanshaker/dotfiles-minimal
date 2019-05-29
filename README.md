@@ -1,4 +1,4 @@
-# [Fabien](https://github.com/fabarea)’s dotfiles
+# [Shaker](https://github.com/hasanshaker)’s dotfiles
 
 These are the base dotfiles that I start with when I set up a
 new environment. For more specific local needs I use the `.local`
@@ -14,7 +14,7 @@ understand [what it does](src/os/setup.sh). Seriously, **DON'T**!)
 
 | OS | Snippet |
 |:---|:---|
-| `Ubuntu` | `bash -c "$(wget -qO - https://raw.github.com/fabarea/dotfiles-minimal/master/src/os/setup.sh)"` |
+| `Ubuntu` | `bash -c "$(wget -qO - https://raw.github.com/hasanshaker/dotfiles-minimal/master/src/os/setup.sh)"` |
 
 That's it! :sparkles:
 
@@ -48,8 +48,8 @@ Setup process in action:
 
 ```
 [user]
-	name = Fabien Udriot
-	email = fabien@omic.ch
+	name = Shaker Hasan
+	email = shaker@hemmer
 	date = YYYY
 
 [commit]
@@ -103,7 +103,7 @@ export PATH
 
 If you decide to fork this project, don't forget to substitute my
 username with your own in the [`setup` snippets](#setup) and [in the
-`setup` script](https://github.com/fabarea/dotfiles/blob/1503cf23ef23f6e31342b140bcd246625160b94f/src/os/setup.sh#L3).
+`setup` script](https://github.com/hasanshaker/dotfiles/blob/1503cf23ef23f6e31342b140bcd246625160b94f/src/os/setup.sh#L3).
 
 ## Update
 

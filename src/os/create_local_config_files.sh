@@ -37,8 +37,8 @@ create_gitconfig_local() {
 
 
 [user]
-    name = Fabien Udriot
-	email = fabien@omic.ch
+    name = Shaker Hasan
+	email = shaker@hemmer.ch
 	date = YYYY
     # signingkey =" \
         >> "$FILE_PATH"
