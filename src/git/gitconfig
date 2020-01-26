@@ -1,3 +1,7 @@
+[user]
+	email = shaker@hemmer.ch
+	name = Hasan Shaker
+
 [alias]
 
     a   = commit --amend
